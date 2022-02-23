@@ -1,0 +1,3 @@
+C:/Users/misho/Documents/MyGithub/STL-Vector/cmake-build-debug/CMakeFiles/STL_Vector.dir
+C:/Users/misho/Documents/MyGithub/STL-Vector/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/misho/Documents/MyGithub/STL-Vector/cmake-build-debug/CMakeFiles/rebuild_cache.dir

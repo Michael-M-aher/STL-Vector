@@ -1,0 +1,17 @@
+# ninja log v5
+2	370	6669838901564123	CMakeFiles/STL_Vector.dir/main.cpp.obj	6af184f93b333184
+371	516	6669838902984451	STL_Vector.exe	e04369ded1501dd7
+13	367	6669835912775189	CMakeFiles/STL_Vector.dir/CustomVector.cpp.obj	b5219499a6c1f456
+15	351	6669849999629714	CMakeFiles/STL_Vector.dir/CustomVector.cpp.obj	482bb3256b08db62
+2	401	6669850000129832	CMakeFiles/STL_Vector.dir/main.cpp.obj	33ebf6f87e694abb
+401	550	6669850001593373	STL_Vector.exe	e04369ded1501dd7
+2	340	6669865711592950	CMakeFiles/STL_Vector.dir/main.cpp.obj	33ebf6f87e694abb
+2	361	6669867512484856	CMakeFiles/STL_Vector.dir/main.cpp.obj	33ebf6f87e694abb
+361	505	6669867513895175	STL_Vector.exe	e04369ded1501dd7
+13	344	6669869225072840	CMakeFiles/STL_Vector.dir/CustomVector.cpp.obj	482bb3256b08db62
+2	410	6669869225733015	CMakeFiles/STL_Vector.dir/main.cpp.obj	33ebf6f87e694abb
+410	563	6669869227223341	STL_Vector.exe	e04369ded1501dd7
+2	358	6669869276263663	CMakeFiles/STL_Vector.dir/main.cpp.obj	33ebf6f87e694abb
+2	335	6669870010818068	CMakeFiles/STL_Vector.dir/main.cpp.obj	33ebf6f87e694abb
+2	359	6669872048404126	CMakeFiles/STL_Vector.dir/main.cpp.obj	33ebf6f87e694abb
+360	513	6669872049924450	STL_Vector.exe	e04369ded1501dd7
